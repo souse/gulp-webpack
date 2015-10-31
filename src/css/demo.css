@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+body{
+	font-family: "MicrosoftYaHei";
+}
+div{
+	font-size: 32px;
+	color: red;
+}
